@@ -1,0 +1,22 @@
+/*body section*/
+body{
+    background-color: mediumspringgreen;
+     margin: 0; 
+}
+/*XX body section XX*/
+
+/*header section*/
+header h1{
+    margin-top: 0;
+    text-align: center;        
+}
+header p{
+    text-align: center;
+}
+header{   
+    background-color: black;
+    color: whitesmoke;
+}
+/*XX header section XX*/
+
+/*nav section*/
